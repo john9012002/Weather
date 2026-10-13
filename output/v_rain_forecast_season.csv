@@ -1,0 +1,3 @@
+﻿season,n_days,p_rain,p_rain_given_rain_today,p_rain_given_dry_today,avg_temp_max,avg_rh,total_rain_mm
+Mùa khô,151,0.199,0.467,0.132,33.44,68.52,253.5
+Mùa mưa,214,0.818,0.856,0.641,32.26,81.69,1651.9
